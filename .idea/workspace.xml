@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed4d6fb1-9cdd-4e40-bfb9-14012ead07bc" name="Changes" comment="" />
+    <list default="true" id="ed4d6fb1-9cdd-4e40-bfb9-14012ead07bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LuckyNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LuckyNumbersRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CircleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CircleRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RightTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RightTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TriangleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TriangleRunner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GLzsU5886KjqB3HnRaxWE0JPQk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,6 +44,44 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.LuckyNumbersRunner">
+    <configuration name="CircleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CircleRunner" />
+      <module name="BeksultanU2T9Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuckyNumbersRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LuckyNumbersRunner" />
+      <module name="BeksultanU2T9Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="BeksultanU2T9Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TriangleRunner" />
+      <module name="BeksultanU2T9Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LuckyNumbersRunner" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TriangleRunner" />
+        <item itemvalue="Application.CircleRunner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +92,16 @@
       <updated>1666182860613</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
